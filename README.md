@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IvanIlagan
-- 👀 I’m interested in Game Development, Web Development and Machine Learning
-- 🌱 I’m currently learning a lot of stuffs, but will be focusing on Machine Learning. 
-- 💞️ I’m looking to collaborate on Unity Games and Ruby Stuff
+- 👀 I’m interested in Web Development, Game Development and Machine Learning
+- 🌱 I’m currently learning a lot of stuff, but will be focusing on backend software engineering.
+- 💞️ I’m looking to collaborate on Ruby Librarys and Unity Games.
 
 - My Games: https://ivanilagan.itch.io/
 - Blog/Articles: https://dev.to/ivanilagan11 
